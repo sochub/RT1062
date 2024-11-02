@@ -15,9 +15,11 @@ gantt
     v1.0           :a1, 2024-06-01, 2024-09-30
 ```
 
+[![sites](docs/ch32m030.jpg)](http://www.wch.cn/products/CH32M030.html)
+
 ### 关键特性
 
-* 72MHz RISC-V3B，支持RV32IMCB指令集和自扩展指令
+* 72MHz RISC-V3B (RV32IMCB)
 * 12KB SRAM + 64KB Flash
 * 内置高压LDO，VHV支持额定5～28V系统供电
 * 预驱动I/O供电VDD8额定电压：5～10V
@@ -45,5 +47,5 @@ gantt
 
 ## [选型建议](https://github.com/SoCXin)
 
-[CH32M030](https://github.com/SoCXin/CH32M030) 集成了高速USB(480Mbps +PHY)，支持以太网和USB-PD。
+[CH32M030](https://github.com/SoCXin/CH32M030) 集成了高速USB(480Mbps +PHY)，支持USB-PD。
 

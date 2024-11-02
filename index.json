@@ -2,7 +2,7 @@
     "type":"SoC",
     "name":"CH32M030",
     "title": "WCH SoC CH32M030",
-    "description":"WCH RISC-V3B USBHS+PD+ETH SoC",
+    "description":"WCH RISC-V3B USBHS+PD SoC",
     "version":"1.1.0",
     "Core": {
         "num": 1,
