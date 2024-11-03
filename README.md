@@ -47,5 +47,5 @@ gantt
 
 ## [选型建议](https://github.com/SoCXin)
 
-[CH32M030](https://github.com/SoCXin/CH32M030) 集成了高速USB(480Mbps +PHY)，支持USB-PD。
+[CH32M030](https://github.com/SoCXin/CH32M030) 集成MOSFET半桥驱动器，集成LDO，VHV支持额定5～28V，支持USB-PD。
 
